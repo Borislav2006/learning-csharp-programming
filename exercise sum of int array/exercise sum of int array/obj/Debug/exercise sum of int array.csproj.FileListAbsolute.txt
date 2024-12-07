@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\bin\Debug\exercise sum of int array.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\bin\Debug\exercise sum of int array.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\bin\Debug\exercise sum of int array.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\obj\Debug\exercise sum of int array.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\obj\Debug\exercise sum of int array.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\obj\Debug\exercise sum of int array.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\obj\Debug\exercise sum of int array.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise sum of int array\exercise sum of int array\obj\Debug\exercise sum of int array.pdb
