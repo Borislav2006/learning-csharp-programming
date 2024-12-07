@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\bin\Debug\exercise times table.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\bin\Debug\exercise times table.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\bin\Debug\exercise times table.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\obj\Debug\exercise times table.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\obj\Debug\exercise times table.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\obj\Debug\exercise times table.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\obj\Debug\exercise times table.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise times table\exercise times table\obj\Debug\exercise times table.pdb
