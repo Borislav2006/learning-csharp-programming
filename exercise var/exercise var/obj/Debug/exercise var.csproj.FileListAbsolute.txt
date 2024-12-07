@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\bin\Debug\exercise var.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\bin\Debug\exercise var.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\bin\Debug\exercise var.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\obj\Debug\exercise var.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\obj\Debug\exercise var.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\obj\Debug\exercise var.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\obj\Debug\exercise var.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise var\exercise var\obj\Debug\exercise var.pdb
