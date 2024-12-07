@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\bin\Debug\exercise area of a triangle.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\bin\Debug\exercise area of a triangle.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\bin\Debug\exercise area of a triangle.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\obj\Debug\exercise area of a triangle.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\obj\Debug\exercise area of a triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\obj\Debug\exercise area of a triangle.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\obj\Debug\exercise area of a triangle.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise area of a triangle\exercise area of a triangle\obj\Debug\exercise area of a triangle.pdb
