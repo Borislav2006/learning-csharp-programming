@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\obj\Debug\exercise fizz buzz game.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\obj\Debug\exercise fizz buzz game.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\obj\Debug\exercise fizz buzz game.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\bin\Debug\exercise fizz buzz game.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\bin\Debug\exercise fizz buzz game.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\bin\Debug\exercise fizz buzz game.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\obj\Debug\exercise fizz buzz game.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise fizz buzz game\exercise fizz buzz game\obj\Debug\exercise fizz buzz game.pdb
