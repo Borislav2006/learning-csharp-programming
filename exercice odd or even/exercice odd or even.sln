@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice odd or even", "exercice odd or even\exercice odd or even.csproj", "{DEF8CEF8-B4E3-4DB6-9F18-4128AA32EFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF8CEF8-B4E3-4DB6-9F18-4128AA32EFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF8CEF8-B4E3-4DB6-9F18-4128AA32EFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF8CEF8-B4E3-4DB6-9F18-4128AA32EFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF8CEF8-B4E3-4DB6-9F18-4128AA32EFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F656D66-C0C1-4C9F-8F67-3F2C482D0F4A}
+	EndGlobalSection
+EndGlobal

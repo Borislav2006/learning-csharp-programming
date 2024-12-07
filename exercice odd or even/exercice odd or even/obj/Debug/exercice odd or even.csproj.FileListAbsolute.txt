@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\bin\Debug\exercice odd or even.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\bin\Debug\exercice odd or even.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\bin\Debug\exercice odd or even.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\obj\Debug\exercice odd or even.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\obj\Debug\exercice odd or even.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\obj\Debug\exercice odd or even.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\obj\Debug\exercice odd or even.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercice odd or even\exercice odd or even\obj\Debug\exercice odd or even.pdb
