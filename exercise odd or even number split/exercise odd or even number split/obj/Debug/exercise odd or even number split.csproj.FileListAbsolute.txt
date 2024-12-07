@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\obj\Debug\exercise odd or even number split.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\obj\Debug\exercise odd or even number split.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\obj\Debug\exercise odd or even number split.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\bin\Debug\exercise odd or even number split.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\bin\Debug\exercise odd or even number split.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\bin\Debug\exercise odd or even number split.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\obj\Debug\exercise odd or even number split.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise odd or even number split\exercise odd or even number split\obj\Debug\exercise odd or even number split.pdb
