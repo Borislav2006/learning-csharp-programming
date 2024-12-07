@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\bin\Debug\exercise array of multiples.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\bin\Debug\exercise array of multiples.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\bin\Debug\exercise array of multiples.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\obj\Debug\exercise array of multiples.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\obj\Debug\exercise array of multiples.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\obj\Debug\exercise array of multiples.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\obj\Debug\exercise array of multiples.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise array of multiples\exercise array of multiples\obj\Debug\exercise array of multiples.pdb
