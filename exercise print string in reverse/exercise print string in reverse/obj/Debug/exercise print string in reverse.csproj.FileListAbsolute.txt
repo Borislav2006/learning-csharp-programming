@@ -1,0 +1,8 @@
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\bin\Debug\exercise print string in reverse.exe.config
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\bin\Debug\exercise print string in reverse.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\bin\Debug\exercise print string in reverse.pdb
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\obj\Debug\exercise print string in reverse.csproj.AssemblyReference.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\obj\Debug\exercise print string in reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\obj\Debug\exercise print string in reverse.csproj.CoreCompileInputs.cache
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\obj\Debug\exercise print string in reverse.exe
+C:\Users\bobi9\OneDrive\Работен плот\csharp\exercise print string in reverse\exercise print string in reverse\obj\Debug\exercise print string in reverse.pdb
